@@ -1,0 +1,7 @@
+en/
+russianDataSets/
+*.json
+*.ftr
+*.zip
+*.txt
+!.gitignore
