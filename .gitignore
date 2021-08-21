@@ -4,4 +4,5 @@ russianDataSets/
 *.ftr
 *.zip
 *.txt
+*.gz
 !.gitignore
